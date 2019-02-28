@@ -1,0 +1,39 @@
+html {
+	background-color: #e7f1f3;
+}
+
+body {
+	font-family: proxima-nova, sans-serif;
+}
+
+.content {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	max-width: 800px;
+	text-align: center;
+}
+
+.content p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	line-height: 1.5em;
+	font-size: 18pt;
+}
+
+.content a {
+	font-size: 14pt;
+}
+
+.content img {
+	max-width: 650px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
